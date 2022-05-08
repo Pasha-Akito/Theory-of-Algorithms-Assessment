@@ -19,3 +19,31 @@ This repository is made for the <b> Theory of Algorithms </b> module assessment.
     * Discussion of the complexity of the Countdown Numbers Game.
     * Python function to solve the Countdown Numbers Game.
     * An explanation of the functional aspect of the code.
+
+
+## Quick Steps
+***
+
+You can view the post-correspondence notebook in static form by clicking the following image:
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Pasha-Akito/Theory-of-Algorithms-Assessment/blob/main/post-correspondence.ipynb)
+
+You can view the post-correspondence notebook in dynamic form by clicking the following image:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pasha-Akito/Emerging-Technologies-Assessment/blob/main/scikit-learn.ipynb/HEAD)
+
+***
+
+You can view the countdown notebook in static form by clicking the following image:
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Pasha-Akito/Theory-of-Algorithms-Assessment/blob/main/countdown.ipynb)
+
+You can view the countdown notebook in dynamic form by clicking the following image:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pasha-Akito/Theory-of-Algorithms-Assessment/blob/main/countdown.ipynb/HEAD)
+
+## How to run the notebook
+
+1. Download [Anacanda](https://www.anaconda.com/)
+2. Download [cmder](https://cmder.net/) if on Windows
+3. Run `juypter lab`
