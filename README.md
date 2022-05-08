@@ -46,4 +46,5 @@ You can view the countdown notebook in dynamic form by clicking the following im
 
 1. Download [Anacanda](https://www.anaconda.com/)
 2. Download [cmder](https://cmder.net/) if on Windows
-3. Run `juypter lab`
+3. Clone this repo with the following command: `git clone https://github.com/Pasha-Akito/Theory-of-Algorithms-Assessment.git`
+4. Run the notebooks with the folowing command: `juypter lab`
